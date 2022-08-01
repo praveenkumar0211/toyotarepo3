@@ -11,8 +11,8 @@ public class DemoController {
 	public String method1() {
 		return("Hi");
 	}
-	@RequestMapping(value="/Hai)
-			public String method2(){
+	@RequestMapping(value="/Hai")
+			public String method21(){
 				return("Haaaai");
 				
 			}
