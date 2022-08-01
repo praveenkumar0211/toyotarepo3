@@ -13,4 +13,9 @@ public class DemoController {
 	}
 	
 	
+	public String method2() {
+		return null;
+		
+	}
+	
 }
